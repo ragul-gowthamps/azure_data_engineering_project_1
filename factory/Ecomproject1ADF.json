@@ -1,0 +1,9 @@
+{
+	"name": "Ecomproject1ADF",
+	"location": "uksouth",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "e7630250-bd50-4f8f-b0e1-f3679e426eb1",
+		"tenantId": "c794a269-2e9b-4777-ad46-2d19d81196d6"
+	}
+}
